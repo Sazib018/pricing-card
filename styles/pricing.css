@@ -1,0 +1,41 @@
+body{
+    margin: 50px 100px 50px;
+}
+
+.center{
+    text-align: center;
+}
+.plan-titel{
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.modefi{
+    height: 400px;
+    width: 200px;
+    box-shadow: 2px 2px 4px red;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.modefi2{
+    height: 400px;
+    width: 200px;
+    box-shadow: 2px 2px 4px red;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.sazib{
+    height: 400px;
+    width: 200px;
+    box-shadow: 2px 2px 4px red;
+    border-radius:15px;
+    padding: 20px;
+    text-align: center;
+}
+
+.step{
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+}
